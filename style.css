@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Rectangle-container {
+  background-color: #d9d9d9;
+  padding: 58px 442px 126px 503px;
+  border-radius: 8;
+}
+
+.Improve-skills {
+  font-size: 24px;
+  font-weight: 400;
+  color: #5468e7;
+  width: 335px;
+  height: 60px;
+  margin: auto;
+}
+
+.Rectangle-container2 {
+  color: #d9d9d9;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  color: #232340;
+  height: 70px;
+  width: 335px;
+  text-align: center;
+  margin: auto;
+}
+
+.Rectangle {
+  width: 367px;
+  height: 220px;
+  margin: auto;
+}
+
+.Rectangle2 {
+  width: 48px;
+  height: 48px;
+}
+.body {
+  background-color: #d9d9d9;
+}
